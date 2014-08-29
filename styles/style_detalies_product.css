@@ -1,0 +1,90 @@
+#tovar_detalies{
+    width: 735px;
+    min-height: 400px; 
+    margin:5px auto;
+    border-radius: 5px 5px 5px 5px;
+    border: #efefef inset 2px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px 0px #666;
+    background-image: -o-linear-gradient(right bottom, rgb(201, 197, 201) 0%, rgb(252, 252, 252) 51%, rgb(201, 199, 201) 99%);
+    background-image: -moz-linear-gradient(right bottom, rgb(201, 197, 201) 0%, rgb(252, 252, 252) 51%, rgb(201, 199, 201) 99%);
+    background-image: -webkit-linear-gradient(right bottom, rgb(201, 197, 201) 0%, rgb(252, 252, 252) 51%, rgb(201, 199, 201) 99%);
+    background-image: -ms-linear-gradient(right bottom, rgb(201, 197, 201) 0%, rgb(252, 252, 252) 51%, rgb(201, 199, 201) 99%);
+    
+}
+#tovar_name{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 900;
+    text-align: center;
+}
+#tovat_img{
+    width: 720px;
+    max-height: 120px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+.tovar_img{
+    height: 100px;
+    background: #fff;
+    z-index: 100;
+    
+}
+.tovar_img:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    z-index: 101;
+}
+#tovar_sabmit{
+        width: 135px;
+        height: 25px;
+        float: left;
+        text-align: center;
+        margin-right: 10px;
+        margin-left: 20px;
+        }
+    #tovar_sabmit a{
+            text-decoration: none;
+            color: #C00;
+            height: 22px;
+            font-weight: 900;
+            font-size: 14px;
+            display: block;
+            padding-top: 3px;
+            border-radius: 5px 5px 5px 5px;
+            border:#828080 solid 1px;
+            background-image: -o-linear-gradient(bottom, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -moz-linear-gradient(bottom, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -webkit-linear-gradient(bottom, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -ms-linear-gradient(bottom, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            }
+    #tovar_sabmit a:hover{
+            color: #871137;
+            background-image: -o-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -moz-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -webkit-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            background-image: -ms-linear-gradient(top, rgb(255, 255, 255) 0%, rgb(201, 201, 201) 51%, rgb(227, 227, 227) 56%, rgb(240, 237, 240) 100%);
+            }
+#tovar_price{
+    width: 570px;
+    height: 22px;
+    padding-top: 3px;
+    float: right;
+    font-weight: 900;
+    font-size: 14px;
+}
+#tovar_none{
+    clear: both;
+}
+#tovar_text{
+    width: 700px;
+    //border: solid 1px #000000;
+    margin: 15px auto;
+    padding: 10px;
+    text-align: justify;
+}
+

@@ -1,0 +1,54 @@
+#table_reg{
+        width: 750px;
+        border-collapse: collapse;
+        margin-left: auto;
+        margin-right: auto;
+        background: #f4f4f4;
+        }
+#table_reg tr{
+        height: 60px;
+        }
+#table_reg td{
+        border: solid 1px #ccc;
+        }
+.tr_heder_footer{
+        background: #E1E1E1;  
+        }        
+        #p_table_header_1{
+                text-align: center;
+                margin-bottom: 10px;
+                font-weight: bold;
+                color: #F00;
+                }
+        #p_table_header_2{
+                text-align: center;
+                margin-bottom: 10px;
+                font-weight: bold;
+                font-size: 18px;
+                color: #30b64a;
+                }
+#td_name{
+        width: 250px;
+        }
+#td_input{
+        width: 200px;
+        }
+
+        
+.td_error{
+        width: 300px;
+        color: #C00;
+        font-size: 12px;
+        }
+        .p_error{
+                text-align: center;
+                }
+#td_footer{
+        text-align: center;
+        }
+        #submit_reg{
+                width: 250px;
+        }
+        #submit_reg:hover{
+                background: #ccc;
+        }

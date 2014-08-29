@@ -1,0 +1,151 @@
+#header_message{
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-collapse: collapse;
+}
+.body_message{
+    width: 760px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-collapse: collapse;
+    border: solid 1px #ccc;
+}
+.body_message a{
+    color: #152b9c;
+    text-decoration: none;
+}
+.body_message a:hover{
+    color: #871137;
+}
+.text_message, .nomber_message, .delete_message, .data_message, .name_user_message, #message_theam{
+    font-weight: bold;
+    text-align: center;
+    font-size: 12px;
+    font-family: sans-serif;
+    background: #f4f4f4;
+}
+.text_message{
+    height: 20px;
+    width: 380px;
+}
+#message_theam{
+    height: 30px;
+    text-align: center;
+    background: #a3c1ff;
+    color: #000;
+    font-size: 18px;
+    font-family: serif;
+}
+#text_message, #nomber_message, #delete_message, #data_message, #name_user_message{
+    font-weight: bold;
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+    background: #E1E1E1;
+}
+.m_admin{
+    background: #E1E1E1;
+    padding: 10px;
+}
+#nomber_message{
+    width: 50px;
+}
+.nomber_message{
+    width: 60px;
+}
+#delete_message{
+    width: 50px;
+    padding: 0px;
+}
+.delete_message{
+    width: 62px;
+}
+#data_message{
+    width: 157px;
+}
+.data_message{
+    width: 180px;
+}
+#name_user_message{
+    width: 165px;
+}
+.name_user_message{
+    width: 200px;
+}
+#admin_message td{
+    border: solid 1px #ccc;
+}
+.message_tr td{
+    margin-top: 5px;
+}
+.checkbox_del{
+    text-align: center;
+}
+.footer_message{
+    text-align: right;
+    padding-right: 10px;
+}
+.footer_message a{
+    color: #2c68df;
+    text-decoration: none;
+}
+
+//-----------------------------------------------------------------------------
+
+#new_section_admin{
+    width: 400px;
+    background: #30b64a;
+}
+.admin_text{
+    width: 700px;
+    height: 25px;
+    border-radius: 5px 5px 5px 5px;
+    background: #fff2b3;
+}
+.admin_submit{
+    width: 250px;
+    height: 25px;
+    margin-top: 10px;
+}
+.admin_select{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    background: #fff2b3;
+}
+.admin_textarea_min{
+    width: 700px;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    background: #f4f4f4;
+}
+.admin_textarea_max{
+    width: 700px;
+    height: 120px;
+    border-radius: 5px 5px 5px 5px;
+    background: #f4f4f4;
+}
+.block_admin{
+    width: 740px;
+    border: solid 1px #000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    background: #E6E6E6;
+    font-weight: bold;
+    border-radius: 5px 5px 5px 5px;
+}
+.block_admin fieldset{
+    background: #f3f3f3;
+}
+.block_admin fieldset fieldset{
+    background: #E6E6E6;
+}

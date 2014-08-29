@@ -1,0 +1,188 @@
+
+.activ_left{  
+        width:80%;  
+        text-align:left;  
+        padding:5px;  
+        color:#666666;  
+        background:#f4f4f4;  
+        border-top:1px solid #cccccc;  
+        border-right:1px dotted #cccccc;  
+        border-left:1px solid #cccccc;  
+        border-bottom:1px solid #cccccc;  
+        }  
+.activ_right{  
+        width:20%;  
+        padding:5px;  
+        font-weight:bold;  
+        text-align:center;  
+        background:#ffffff;  
+        border-top:1px solid #cccccc;  
+        border-right:1px solid #cccccc;  
+        border-left:1px dotted #cccccc;  
+        border-bottom:1px solid #cccccc;  
+        }  
+.center_right_block{  
+        width:40%;
+        font-size: 12px;
+        font-family: sans-serif;
+        height: 35px;
+        padding:5px;  
+        background:#ffffff;  
+        border-top:1px solid #cccccc;  
+        border-right:1px solid #cccccc;  
+        border-left:1px dotted #cccccc;  
+        border-bottom:1px solid #cccccc;  
+        }  
+.center_left_block{  
+        width:130px;
+        height: 35px;
+        padding:5px;  
+        font-weight:bold;  
+        color:#666666;  
+        background:#ebebeb;  
+        border-top:1px solid #cccccc;  
+        border-right:1px dotted #cccccc;  
+        border-left:1px solid #cccccc;  
+        border-bottom:1px solid #cccccc;  
+        }  
+.ava{  
+        width:150px;  
+        height:150px;  
+        background:#ffffff;  
+        padding:5px;  
+        border:1px solid #cccccc;  
+        }  
+.avatar{  
+        text-align:center;  
+        width:160px;  
+        height:150px;  
+        padding:5px;  
+        background:#f3f3f3;  
+        border:1px solid #cccccc;  
+        }
+
+.tadle{
+        margin-bottom:10px;
+        width: 770px;
+        margin-left: auto;
+        margin-right: auto;
+        border-collapse:collapse;
+        }
+        #tadle_header td{
+                border:1px solid #710e16;
+                background:#ae1522;
+                padding:10px;
+                }
+        #tadle_header td font{
+                color:#FFFFFF;
+                text-shadow:1px 0px #d2d2d2;
+                }
+        .tadle a{
+                text-decoration: none;
+                color: #3366ff;
+                }
+        .tadle a:hover{
+                color: #000000;  
+                }
+#table_activ{
+        width: 140px;
+        border-collapse:collapse;
+        margin-left:5px;
+        }
+.td_activ{
+        text-align: center;
+        height: 35px;
+        border:1px solid #cccccc;
+        background:#ebebeb;
+        padding:5px;
+        color:#666666;
+        font-weight:bold;
+        text-shadow:1px 0px 0px #ffffff;
+        }
+.td_inpet_text{
+        background:#ebebeb;
+        border:1px solid #cccccc;
+        }
+#textarea_info_user{
+        width: 100%;
+        min-height: 80px;
+        background:#ffffff;
+}
+#info_user{
+    width: 100%;
+    margin:5px auto;
+}
+#info_user td{
+    background: #ffffff;
+    border: solid 1px #cccccc;
+    padding: 10px;   
+}
+
+#table_redactor{
+        margin-top: -9px;
+        margin-bottom:10px;
+        width: 625px;
+        margin-left: 5px;
+        border-collapse:collapse;
+        }
+        #table_redactor td{
+            background: #ebebeb;
+        }
+        #table_redactor td a{
+                text-decoration: none;
+                color: #3366ff;
+                }
+        #table_redactor td a:hover{
+                color: #000000;  
+                }
+        #td_image{
+                width: 250px;
+                text-align: left;
+                padding-left: 10px;
+                font-size: 12px;
+                }
+        #td_redact_user{
+                width: 150px;
+                text-align: left;
+                }
+.redactor_contacts{
+        width: 770px;
+        margin-left: auto;
+        margin-right: auto;
+        background: #ebebeb;
+        border: solid 1px #cccccc;
+}
+    .redactor_contacts fieldset{
+            width: 250px;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 5px 5px 5px 5px;
+            }
+            .redactor_contacts input{
+                    width: 150px;
+                    }
+            .redactor_contacts legend{
+                    text-align: center;
+                    }
+            .submit_redactor{
+                    margin-left:310px;
+                    }
+                    #exit{
+                        width: 20px;
+                        height: 20px;
+                        background: #828080;
+                        color: #ffffff;
+                        float: right;
+                        margin-right: 3px;
+                    }
+                    .delete_tel{
+                        width: 18px;
+                        height: 18px;
+                        background: #C00;
+                        text-align: center;
+                        color: #ffffff;
+                        float: right;
+                        font-size: 10px;
+                        padding: 0px;
+                        margin:0px;
+                    }

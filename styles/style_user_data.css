@@ -1,0 +1,32 @@
+#fieldset_user_data{
+	width:190px;
+	height:85px;
+	padding:0px 5px;
+	border-radius:5px 5px 5px 5px;
+	border:solid 1px #CCC;
+	margin-top:2px;
+        text-align: center;
+	}
+        #fieldset_user_data p{
+                color: #C5C7D1;
+                margin: 0px;
+                text-align: center;
+                }
+                #fieldset_user_data p a{
+                        color: #C5C7D1;
+                        margin-top: 9px;
+                        display: block;
+                        float: left;
+                        padding-bottom: 4px;
+                        }
+                #fieldset_user_data p a:hover{
+                        color: #000000;
+                        }
+        #sabmit_user_data{
+                float: right;
+                width:70px;
+                height:20px;
+                font-size:10px;
+                margin-top:8px;
+                }
+

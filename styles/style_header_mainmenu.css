@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+#ul_nawmenu{
+	margin-top:10px;
+	}
+.li_nawmenu{
+	float:left;
+	list-style:none;
+	padding:2px 12px;
+	display:block;
+	border-radius:4px 4px 4px 4px;
+	}
+.a_nawmenu{
+        color:#FFF;
+        font-size:16px;
+        text-decoration: none;
+        }
+.a_nawmenu:hover{
+        color:#E1CFFE;
+	cursor:pointer;
+        }

@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.li_menu{
+        float:left;
+        margin-top: 6px;
+        margin-right: 20px;
+}
+.a_menu{
+        color:#C5C7D1;
+	text-decoration:none;
+}
+.a_menu:hover{
+	color:#fff;
+	text-decoration:underline;
+	}

@@ -1,0 +1,37 @@
+#form_admin{
+        width: 300px;
+        background: #f3f3f3;
+        border-radius: 5px 5px 5px 5px;
+        height: 150px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        }
+        #form_admin legend{
+                text-align: center;
+                font-weight: bold;
+                font-size: 16px;
+                }
+                #form_admin table{
+                        margin-left: auto;
+                        margin-right: auto;
+                        border-collapse: collapse;
+                        width: 280px;
+                        height: 130px;
+                        }
+                        .f_a_td_input{
+                                width: 180px;
+                                }
+                                .input_admin{
+                                        width: 180px;
+                                        float: right;
+                                        border-radius: 5px 5px 5px 5px;
+                                        }
+                        .f_a_td_sabmit{
+                                text-align: right;
+                                }
+                                .sabmit_admin{
+                                        width: 100px;
+                                        border-radius: 5px 5px 5px 5px;
+                                        }
+

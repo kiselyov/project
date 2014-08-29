@@ -1,0 +1,185 @@
+#div_city{
+    width: 20%;
+    height: 20%;
+    border-radius: 15px 15px 15px 15px;
+    border: solid 1px #000;
+    background: #C5C7D1;
+    position: fixed;
+    left: 40%;
+    right: 40%;
+    top: 40%;
+    bottom: 40%;
+    text-align: center;
+}
+#header_city{
+    width: 100%;
+    background: #30b64a;
+}
+#header_city a{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px 10px 10px 10px;
+    border:solid 1px #000000;
+    background: #fff;
+    color: #000000;
+    font-weight: 900;
+    font-size: 18px;
+    text-decoration: none;
+}
+#header_city a:hover{
+    color: #fff;
+    border:solid 1px #fff;
+    background: #000000;
+}
+#body_city{
+    vertical-align: central;
+    height: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    
+}
+//----------------------------------------------------
+#mdsfsdfsdf{
+    background: #ccc;
+}
+#main_block_buy{
+        width: 745px;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 5px;
+        border:solid 1px #ccc;
+        border-radius:5px 5px 5px 5px;
+        padding:10px;
+        overflow:hidden;
+        background-image: -o-linear-gradient(bottom, rgb(212, 212, 212) 0%, rgb(255, 255, 255) 51%, rgb(199, 199, 199) 100%);
+        background-image: -moz-linear-gradient(bottom, rgb(212, 212, 212) 0%, rgb(255, 255, 255) 51%, rgb(199, 199, 199) 100%);
+        background-image: -webkit-linear-gradient(bottom, rgb(212, 212, 212) 0%, rgb(255, 255, 255) 51%, rgb(199, 199, 199) 100%);
+        background-image: -ms-linear-gradient(bottom, rgb(212, 212, 212) 0%, rgb(255, 255, 255) 51%, rgb(199, 199, 199) 100%);
+        }
+        #name_block_buy{
+                border:solid 1px #000;
+                border-radius:5px 5px 5px 5px;
+                width: 650px;
+                height: 25px;
+                margin-left:auto;
+                margin-right:auto;
+                background: #000;
+                color:#fff;
+                padding-top:5px;
+                padding-left:10px;
+                }
+        #img_block_buy{
+                width: 650px;
+                height: 120px;
+                margin-left:auto;
+                margin-right:auto;
+                margin-bottom:5px;
+                text-align:center;
+                border-radius:0px 0px 5px 5px;
+                }
+                #img_block_buy img{
+                        height: 120px;
+                        width: 220px;
+                        margin-top:5px;
+
+                        }
+        #price_block_buy{
+                float:left;
+                width:250px;
+                margin-left:40px;
+                text-align:center;
+                margin-top:5px;
+                }
+        #a_block_buy{
+                float:right;
+                width:250px;
+                margin-right:40px;
+                margin-top:5px;
+                text-align:center;
+                }
+        .clear{
+                clear:both;
+                }
+        #ul_block_buy{
+                width:700px;
+                margin-left:auto;
+                margin-right:auto;
+                text-align:center;
+                }
+		
+.main_block_user{
+        border:solid 1px #ccc;
+        width:330px;
+        margin-left:25px;
+        margin-bottom:10px;
+        border-radius:5px 5px 5px 5px;
+        float:left;
+        background-image: -o-linear-gradient(bottom, rgb(252, 252, 252) 0%, rgb(217, 214, 217) 51%, rgb(252, 249, 252) 100%);
+        background-image: -moz-linear-gradient(bottom, rgb(252, 252, 252) 0%, rgb(217, 214, 217) 51%, rgb(252, 249, 252) 100%);
+        background-image: -webkit-linear-gradient(bottom, rgb(252, 252, 252) 0%, rgb(217, 214, 217) 51%, rgb(252, 249, 252) 100%);
+        background-image: -ms-linear-gradient(bottom, rgb(252, 252, 252) 0%, rgb(217, 214, 217) 51%, rgb(252, 249, 252) 100%);
+        }
+        .img_block_user{
+                width:120px;
+                height:50px;
+                margin-left:5px;
+                margin-top:5px;
+                float:left;
+                }
+        .name_block_user{
+                width:185px;
+                height:50px;
+                margin-left:5px;
+                margin-top:5px;
+                float:left;
+                padding-top: 0px;
+                text-align:center;
+                font-weight:900;
+                font-size:12px;
+                }
+        .price_block_user{
+                width: 310px;
+                font-weight:900;
+                margin-left:auto;
+                margin-top:auto;
+                }
+        .contacts_block_user{
+                width: 310px;
+                font-weight:900;
+                margin-left:auto;
+                margin-right:auto;
+                text-align:center;
+                }
+        .tel1_block_user{
+                width:150px;
+                height:20px;
+                float:left;
+                margin-left:9px;
+                font-size:12px;
+                }
+        .tel2_block_user{
+                width:150px;
+                height:20px;
+                float:left;
+                margin-left:9px;
+                font-size:12px;
+                }
+        .skype_block_user{
+                width:310px;
+                margin-left:auto;
+                margin-right:auto;
+                font-size:12px;
+                }
+        .info_block_user{
+                border:solid 1px #ccc;
+                border-radius:5px 5px 5px 5px;
+                width:290px;
+                height:50px;
+                margin:5px auto;
+                padding:10px;
+                }
